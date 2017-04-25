@@ -18,6 +18,7 @@ namespace TestApp
             ForBackupTest.Test();
 
             Console.Write("Test");
+            Console.Write("Test2");
         }
 
     }// Program
