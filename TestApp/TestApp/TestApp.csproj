@@ -46,6 +46,7 @@
     <Compile Include="Cucumber.cs" />
     <Compile Include="ForBackupTest.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Programmer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vsevolod.cs" />
   </ItemGroup>
