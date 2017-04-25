@@ -16,6 +16,9 @@ namespace TestApp
             vs.Say("Git hub это круто, но непонятно");
 
             ForBackupTest.Test();
+
+            Console.Write("Test");
+            Console.Write("Test2");
         }
 
     }// Program
