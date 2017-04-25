@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestApp
 {
-    class Program
+    class Cucumber
     {
-        static void Main(string[] args)
+        public static void SayHello()
         {
-            Cucumber.SayHello();
+            Console.WriteLine("Hi, I'm cucumber");
         }
     }
 }
