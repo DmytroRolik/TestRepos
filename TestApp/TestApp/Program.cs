@@ -10,6 +10,10 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            Vsevolod vs = new Vsevolod();
+
+            vs.Say("Git hub это круто, но непонятно");
         }
-    }
+
+    }// Program
 }
